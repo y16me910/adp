@@ -40,8 +40,8 @@
                 <configuration>
 			<server>maven-tomcat-war-deployment-server</server>
                 <url>http://35.154.155.206:8090/manager/text</url>
-                <server>TomcatServer</server>
-                <path>/adp</path>
+                
+                <path>/hello</path>
                   </configuration>
   </plugin>
         <plugin>
