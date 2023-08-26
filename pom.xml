@@ -39,7 +39,7 @@
                         <version>2.2</version>
                 <configuration>
 			<server>maven-tomcat-war-deployment-server</server>
-                <url>http://35.154.155.206:8090/manager/text</url>
+                <url>http://35.154.155.206:8090</url>
                 
                 <path>/hello</path>
                   </configuration>
